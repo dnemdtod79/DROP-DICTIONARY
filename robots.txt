@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Disallow: /history.php
+Disallow: /mypage.php
+Disallow: /edit.php
+Disallow: /settings.php
